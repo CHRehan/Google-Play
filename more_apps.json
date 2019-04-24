@@ -5,18 +5,18 @@
       "description": "This app provides you with these functions.Web page capture is best tool to take screenshot of whole web page.It can take screenshot of any web page to store the web pages offline.You can take Screenshot of all text and images contain in view that you search in search view.Content and web view scroll at the end as you view easily captured in both image file and PDF file in your mobile storage.",
       "banner_image_url": "https://lh3.googleusercontent.com/zB18EtRZ3hYHKRFpcKHVYVazu8dXxXONZz1al3cVk8cmuaJPbZlgoXHcTQGY7KCvyHs=w1366-h625-rw",
       "external_link": "https://play.google.com/store/apps/details?id=com.pak.logix.webpagecapture",
-            "package_name":"com.pak.logix.webpagecapture",
-            "button_text":"Check IT",
-
+      "button_text":"Check IT",
+      "package_name":"com.pak.logix.webpagecapture"
 
     },
     {
-      "title": "Status Saver For WhatsApp",
-      "description": "Are you want to download wahtzapp status, story of your friends & beloved? , yes you can do such things from this app. :) ",
-      "banner_image_url": "https://lh3.googleusercontent.com/QFMVEgR1jDpE1GaaEmY0f76jsf-F_qisbcKK1kMdWfaDqXBM1S3Pe0f-UmdKe5nWcA=w720-h310-rw",
-      "external_link": "https://play.google.com/store/apps/details?id=com.pak.logix.statussaver",
-      "package_name":"com.pak.logix.statussaver",
-            "button_text":"Check IT",
+      "title": "Status Downloader For WhatsApp",
+      "description": "ges offline.You can take Screenshot of all text and images contain in view that you search in search view.Content and web view scroll at the end as you view easily captured in both image file and PDF file in your mobile storage.",
+      "banner_image_url": "https://lh3.googleusercontent.com/zB18EtRZ3hYHKRFpcKHVYVazu8dXxXONZz1al3cVk8cmuaJPbZlgoXHcTQGY7KCvyHs=w1366-h625-rw",
+      "external_link": "https://play.google.com/store/apps/details?id=com.pak.logix.webpagecapture",
+      "button_text":"Check IT",
+      "package_name":"com.pak.logix.statussaver"
+
 
     }
   ]
